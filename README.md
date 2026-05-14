@@ -35,3 +35,34 @@ Learning:
   - Advanced AI Systems
 Goal:
   - Become an AI Engineer & Product Builder
+# 🚀 Tech Stack
+
+## 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+</p>
+
+## 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</p>
+
+## 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+## 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
