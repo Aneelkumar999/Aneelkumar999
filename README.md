@@ -129,14 +129,6 @@ Learning:
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneelkumar999&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🌌 3D Contribution Graph
 
 <p align="center">
