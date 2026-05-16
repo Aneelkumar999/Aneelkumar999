@@ -152,8 +152,27 @@ Learning:
 </p>
 
 ---
+## 🚀 GeeksforGeeks Journey
 
-# 🏆 Achievements
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2F81F7&center=true&vCenter=true&width=700&lines=Sharpening+DSA+Skills;Competitive+Programming+Journey;Solving+Problems+Every+Day" />
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/anilkumar999?from=explore">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-144+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 Achievements
 
 🏅 Built Multiple AI-Powered Projects  
 🏅 Participated in Hackathons & AI Events  
@@ -200,15 +219,7 @@ Learning:
 
 ---
 
-# 🐍 Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aneelkumar999/Aneelkumar999/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-# 💭 Footer Quote
+## 💭 Footer Quote
 
 <p align="center">
 
